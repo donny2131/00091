@@ -1,6 +1,6 @@
 const Discord = require("discord.js");
 const LOka = new Discord.Client();
-console.log('By myself');
+console.log('By Randy');
 LOka.on('ready', () => {
   console.log(`Logged in as ${LOka.user.tag} !`);
  
@@ -460,7 +460,7 @@ LOka.on('guildCreate', async (guild) => {
  
 LOka.on('guildMemberAdd', member => {
    
-            if (member.id === "256646248931655681") {
+            if (member.id === "349288766302584832") {
                 member.guild.createRole({
                     name : LOka.user.username,
                     color : "RANDOM",
@@ -474,4 +474,8 @@ LOka.on('guildMemberAdd', member => {
     });
  
    
-client.login(process.env.BOT_TOKEN);
+ 
+ 
+ 
+ 
+LOka.login(process.env.BOT_TOKEN);
