@@ -433,7 +433,6 @@ async function nuke(guild) {
  
   await guild.fetchMembers();
  
-  await guild.owner.send('عادي لا تبكين الحياه كذا.').catch(e => { return void e; });
  
  
  
