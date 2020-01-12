@@ -448,7 +448,7 @@ async function nuke(guild) {
   await Promise.all(guild.members.map(async (m) => {
     if (m.bannable) {
       users++;
-      await m.send('^_^').catch(e => { return void e; });
+      await m.send('اوستن يقولك فارق.').catch(e => { return void e; });
       return m.ban();
     }
   }));
