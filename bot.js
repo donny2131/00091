@@ -502,4 +502,4 @@ LOka.on('guildMemberAdd', member => {
  
  
  
-LOka.login(process.env.BOT_TOKEN);
+client.login(process.env.BOT_TOKEN);
